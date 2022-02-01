@@ -1,0 +1,9 @@
+# Instalação Next Js
+nps create-next-app board --template typescript
+
+# Libs
+npm install styled-components
+npm install -D @types/styled-components
+npm i sass
+npm install date-fns --save
+npm install firebase
